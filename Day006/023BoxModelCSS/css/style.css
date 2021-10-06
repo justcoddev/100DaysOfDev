@@ -1,0 +1,15 @@
+/*Content - padding - border - margin*/
+/*Superior - derecha  - inferior - izquiera*/
+h1 {
+  color: blue;
+}
+p {
+  color: white;
+  background-color: crimson;
+  padding: 15px;
+  border: 10px solid powderblue;
+  margin: 50px;
+
+
+
+}
